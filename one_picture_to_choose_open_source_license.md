@@ -1,0 +1,1 @@
+<img src="resources/one_picture_to_choose_open_source_license.png" width="500" height="360" alt="one_picture_to_choose_open_source_license"/>
